@@ -1,0 +1,20 @@
+{
+    "name": "gfx",
+    "displayName": "GFX",
+    "description": "GFX Visual Studio Code Color Theme",
+    "version": "0.0.1",
+    "publisher": "JRENG",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "GFX",
+            "uiTheme": "vs-dark",
+            "path": "./themes/GFX-color-theme.json"
+        }]
+    }
+}
