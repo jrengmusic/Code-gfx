@@ -1981,6 +1981,7 @@
     "terminalCursor.background": "#002b35",
     "terminalCursor.foreground": "#bafffd",
     "terminal.border": "#00000000",
+    "terminal.background": "#0A1216",
     "terminal.ansiBlack": "#454545",
     "terminal.ansiBlue": "#2472c8",
     "terminal.ansiBrightBlack": "#666666",
