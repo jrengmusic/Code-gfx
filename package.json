@@ -2,8 +2,9 @@
     "name": "gfx",
     "displayName": "GFX",
     "description": "GFX Color Theme for Visual Studio Code",
-    "version": "0.0.9",
+    "version": "0.0.12",
     "publisher": "JRENG",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.63.0"
     },
